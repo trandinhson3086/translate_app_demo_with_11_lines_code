@@ -1,6 +1,6 @@
 # translate_app_demo_with_11_lines_code
 
-Translate app demo with 11 lines of code
+## Translate app demo with 11 lines of code
 
 <p align="center">
     <img src="demo.gif", width="480">
