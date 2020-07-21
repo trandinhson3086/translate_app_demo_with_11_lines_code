@@ -10,8 +10,8 @@
 </p>
 
 This repo is based on the following documents:
-- [Gradio --> Rapidly create UIs for prototyping your machine learning model for TensorFlow, PyTorch and Jupyter Notebook] (https://www.gradio.app/)
-- [Googletrans --> Free Google Translate API for Python] (https://pypi.org/project/googletrans/)
+- [Gradio --> Rapidly create UIs for prototyping your machine learning model for TensorFlow, PyTorch and Jupyter Notebook](https://www.gradio.app/)
+- [Googletrans --> Free Google Translate API for Python](https://pypi.org/project/googletrans/)
 
 ### Installation
 ```
